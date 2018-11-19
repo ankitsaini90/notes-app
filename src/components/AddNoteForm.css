@@ -1,0 +1,18 @@
+.notes {
+    width: 400px;
+    min-height: 60px;
+    padding: 10px;
+}
+
+.addNote {
+    display: block;
+    color: #fff;
+    background-color: #0080b3;
+    border-color: #0079a9;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid;
+    white-space: nowrap;
+    padding: .25rem .416rem;
+}
